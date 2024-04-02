@@ -1,7 +1,7 @@
 {
   "name": "@oh/hooks",
-  "version": "0.0.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
   "exports": {
     "./useToggle": "./src/useToggle.tsx"
   },
